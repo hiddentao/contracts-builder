@@ -1,9 +1,6 @@
 # contracts-builder
 
-This Docker image contains the base necessary to run CI builds for the Tribally contracts repos:
-
-* https://github.com/Tribally-Games/tribal-token
-* https://github.com/Tribally-Games/contracts
+This Docker image contains the base necessary to run CI builds for Solidity smart countracts built using [Foundry](https://getfoundry.sh/).
 
 This sets up:
 
@@ -11,7 +8,7 @@ This sets up:
 * Foundry
 * Solidity v0.8.24
 
-The latest image is always available at: https://ghcr.io/tribally-games/contracts-builder:latest
+The latest image is always available at: https://ghcr.io/hiddentao/contracts-builder:latest
 
 ## Development
 
