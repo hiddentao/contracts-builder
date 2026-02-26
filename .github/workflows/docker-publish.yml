@@ -7,7 +7,7 @@ on:
 
 env:
     REGISTRY: ghcr.io
-    IMAGE_NAME: tribally-games/contracts-builder
+    IMAGE_NAME: hiddentao/contracts-builder
 
 jobs:
     container:
